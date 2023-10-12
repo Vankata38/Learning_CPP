@@ -13,4 +13,7 @@ add_executable(Learning_CPP
         Learning_CPP/src/Loops.cpp
         Learning_CPP/src/Loops.h
         Learning_CPP/src/Main.cpp
+        Learning_CPP/src/Pointers.cpp
+        Learning_CPP/src/References.cpp
+        Learning_CPP/src/Classes.cpp
 )
