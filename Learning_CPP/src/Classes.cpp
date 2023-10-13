@@ -17,4 +17,3 @@ Player createPlayer() {
 
     player.Move(1, -1);
 }
-

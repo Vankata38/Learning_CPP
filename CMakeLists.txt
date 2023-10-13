@@ -16,4 +16,5 @@ add_executable(Learning_CPP
         Learning_CPP/src/Pointers.cpp
         Learning_CPP/src/References.cpp
         Learning_CPP/src/Classes.cpp
+        Learning_CPP/src/Classes2.cpp
 )
