@@ -1,10 +1,18 @@
 #include <iostream>
+#include "VFuncs.cpp"
 
-void LogTests();
+void PrintName(Entity* entity) {
+    std::cout << entity->GetName() << std::endl;
+}
 
 int main() {
 
-    LogTests();
+    Entity* e = new Entity;
+    PrintName(e);
+
+    Player* p = new Player("Ivan");
+    PrintName(p);
+
 	std::cin.get();
 
 	return 0;

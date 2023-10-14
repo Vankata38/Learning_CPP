@@ -17,4 +17,7 @@ add_executable(Learning_CPP
         Learning_CPP/src/References.cpp
         Learning_CPP/src/Classes.cpp
         Learning_CPP/src/Classes2.cpp
+        Learning_CPP/src/Constructors.cpp
+        Learning_CPP/src/Inheritance.cpp
+        Learning_CPP/src/VFuncs.cpp
 )
