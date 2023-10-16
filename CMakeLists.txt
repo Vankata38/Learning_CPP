@@ -22,4 +22,5 @@ add_executable(Learning_CPP
         Learning_CPP/src/VFuncs.cpp
         Learning_CPP/src/Interfaces.cpp
         Learning_CPP/src/Visiability.cpp
+        Learning_CPP/src/Arrays.cpp
 )
