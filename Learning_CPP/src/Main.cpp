@@ -1,10 +1,10 @@
 #include <iostream>
 
-void testArray();
+void testStrings();
 
 int main() {
 
-    testArray();
+    testStrings();
 	std::cin.get();
 
 	return 0;
